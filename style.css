@@ -1,8 +1,12 @@
 :root {
-    --cor-de-fundo: #C7D8E2
-
+    --cor-de-fundo: #C7D8E2;
+    --cor-de-fundo-header: #708795; 
 }
 
 body {
     background-color: var(--cor-de-fundo);
+}
+
+header {
+    background-color: var(--cor-de-fundo-header);
 }
