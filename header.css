@@ -1,0 +1,15 @@
+.header {
+    background-color: var(--cor-de-fundo-header);
+    height: 165px;
+}
+
+.logo {
+    width:58%;
+    margin-left: 230px;
+    margin-top: 20px;
+    margin-right: 0px;
+}
+
+.balao {
+    margin-left: 0px;
+}

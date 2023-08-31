@@ -6,12 +6,3 @@
 body {
     background-color: var(--cor-de-fundo);
 }
-
-.header {
-    background-color: var(--cor-de-fundo-header);
-}
-
-.logo {
-    height: 50px;
-    width: 50px;
-}
