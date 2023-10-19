@@ -17,6 +17,5 @@
 .menu {
     width: 24px;
     height: 24px;
-    background-image: image("Linhas.png");
     display: inline-block;
 }
