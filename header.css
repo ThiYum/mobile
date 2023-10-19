@@ -14,3 +14,7 @@
     height: 50%;
 }
 
+.menu {
+    background-image: url("Linhas.png");
+    display: inline-block;
+}
