@@ -1,3 +1,7 @@
+.menu {
+    background-image: 
+}
+
 .header {
     background-color: var(--cor-de-fundo-header);
     height: 145px;
@@ -14,6 +18,3 @@
     height: 50%;
 }
 
-.menu {
-    background-image: url("../img/Linhas.png");
-}
