@@ -1,20 +1,7 @@
 .menu {
-    background-image: 
-}
-
-.header {
-    background-color: var(--cor-de-fundo-header);
-    height: 145px;
-}
-
-.logo {
-    width:58%;
-    height: 68%;
-    margin: 20px 0px 0px 210px;
-}
-
-.balao {
-    margin: 20px 0px 10px 30px;
-    height: 50%;
+    width: 64px;
+    height: 64px;
+    background-image: url("img/Header.png");
+    display: inline-block;
 }
 
